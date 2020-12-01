@@ -1,6 +1,16 @@
 # medianet-vue
 
-## Project setup
+### Clone project from GitHub
+```
+git clone https://github.com/extriton/medianet-vue.git
+```
+
+### Change working directory
+```
+cd medianet-vue
+```
+
+### Project setup
 ```
 npm install
 ```
@@ -10,20 +20,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Open in browser
 ```
-npm run build
+localhost:8080
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
